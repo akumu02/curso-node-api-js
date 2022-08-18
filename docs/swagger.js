@@ -12,10 +12,10 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: "http://localhost:3001/api",
+      url: "http://localhost:3000/api",
     },
     {
-      url: "https://afternoon-journey-32165.herokuapp.com/api",
+      url: "https://still-island-80176.herokuapp.com//api",
     },
   ],
   components: {
